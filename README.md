@@ -7,6 +7,11 @@
 <body>
 
     <p class="description">Dogs are cute</p>
-
+.description {
+    color: blue;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
 </body>
 </html>
